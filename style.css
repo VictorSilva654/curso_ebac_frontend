@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: #efefef;
+}
+
+.container {
+    width: 100%;
+    margin: 0 auto;
+}
+
+h1 {
+    padding: 16px;
+    text-align: center;
+}
+
+form {
+    padding: 24px 0;
+    text-align: center;
+}
+
+input, button {
+    padding: 8px;
+}
+
+button {
+    background-color: #2918bd;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+ul {
+    text-align: center;
+}
+
+ul li:hover {
+    cursor: pointer;
+}
+
+.riscado {
+    text-decoration: line-through;
+}
+
+
+
+
